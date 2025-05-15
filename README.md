@@ -20,7 +20,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### 1. Launch Cadence Virtuoso Environment
 - Open the Cadence Virtuoso tool and set up the working library.
 - Create a new schematic cell view for the D flip-flop design.
-
+y
 ### 2. Schematic Design
 - Select NMOS and PMOS transistors from the library.
 - Design the D flip-flop circuit with key components such as clock signal input, D input, and Q output.
