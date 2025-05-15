@@ -18,8 +18,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Procedure
 
 ### 1. Launch Cadence Virtuoso Environment
-- Open the Cadence Virtuoso tool and set up the working library.
-- Create a new schematic cell view for the D flip-flop design.
+- Open the Cadence Virtuoso tool and set up the working library
+- Create a new schematic cell view for the D flip-flop design
 
 ### 2. Schematic Design
 - Select NMOS and PMOS transistors from the library.
@@ -33,11 +33,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Configure transient analysis to observe timing behavior and output transitions.
 - Set simulation parameters such as clock frequency, voltage levels, and delay conditions.
 - Use Spectre simulator to perform transient analysis and functional verification.
-
-### 4. Waveform Analysis
-- Observe the output waveform to confirm correct D flip-flop functionality.
-- Ensure that the Q output follows the D input on the rising edge of the clock signal.
-
+- 
 ## Circuit Diagram
 
 ### 1. Tri State D Flip-Flop
@@ -50,8 +46,6 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### 3. Transient Response Setup
 
 ![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
-
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
 
 
 
